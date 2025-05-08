@@ -93,12 +93,13 @@ public:
         {
             cout << "\nList Kosong\n";
         }
-        else{
+        else
+        {
             cout << "\nData didalam list adalah:\n";
             currentNode = currentNode->next;
         }
         cout << endl;
+        }
     }
+};
 
-
-}

@@ -45,7 +45,8 @@ public:
     Node *previous = START;
     Node *Current = START;
 
-    while ((current 1= NULL) && (nim<=))
+    while ((current 1= NULL) && (nim<= current->noMhs))
+    {if (nim == current->noMhs)}
 
 
 }
